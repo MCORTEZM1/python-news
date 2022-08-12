@@ -1,1 +1,1 @@
-# python-news
+# python-news :snake::newspaper:
